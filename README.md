@@ -2,7 +2,7 @@
 
 This is the **mobile companion application** for the Smart Glasses with Voice Assistance senior project, developed using **Flutter**. The app serves as a control and monitoring tool for the **Personal Assistant (PA)**, allowing them to track the blind user, manage recognized faces, and receive emergency alerts.
 
----
+
 
 ## 📱 App Features
 
@@ -22,13 +22,13 @@ This is the **mobile companion application** for the Smart Glasses with Voice As
 - 🔐 **Authentication**
   - Login and register as a Personal Assistant
 
----
+
 
 ## 🔗 APK Download
 
 👉 [Download APK](https://drive.google.com/file/d/10aO4Wez3nkSgCMb6-xXFlDI-tKPxmDXx/view?usp=drive_link)
 
----
+
 
 ## 🧪 How to Use
 
